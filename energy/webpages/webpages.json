@@ -1,0 +1,142 @@
+{
+  "webpages": [
+    {
+      "name": "Google",
+      "url": "http://www.google.com",
+      "img": "http://www.google.com/favicon.ico",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Yahoo",
+      "url": "http://www.yahoo.com",
+      "img": "http://www.yahoo.com/favicon.ico"
+    },
+    {
+      "id": "4",
+      "name": "Wikipedia",
+      "url": "http://www.wikipedia.org",
+      "img": "http://www.wikipedia.org/favicon.ico"
+    },
+    {
+      "id": "5",
+      "name": "Facebook",
+      "url": "http://www.facebook.com",
+      "img": "http://www.facebook.com/favicon.ico"
+    },
+    {
+      "id": "8",
+      "name": "Google Maps",
+      "url": "http://www.google.com/maps",
+      "img": "http://www.google.com/favicon.ico"
+    },
+    {
+      "id": "9",
+      "name": "Google Calendar",
+      "url": "http://www.google.com/calendar",
+      "img": "http://www.google.com/favicon.ico"
+    },
+    {
+      "id": "11",
+      "name": "Google Drive",
+      "url": "http://www.google.com/drive",
+      "img": "http://www.google.com/favicon.ico"
+    },
+    {
+      "id": "12",
+      "name": "Google Translate",
+      "url": "http://www.google.com/translate",
+      "img": "http://www.google.com/favicon.ico"
+    },
+    {
+      "id": "13",
+      "name": "Google Search",
+      "url": "http://www.google.com/search",
+      "img": "http://www.google.com/favicon.ico"
+    },
+    {
+      "id": "14",
+      "name": "Google News",
+      "url": "http://www.google.com/news",
+      "img": "http://www.google.com/favicon.ico"
+    },
+    {
+      "id": "16",
+      "name": "Twitter",
+      "url": "http://www.twitter.com",
+      "img": "http://www.twitter.com/favicon.ico"
+    },
+    {
+      "id": "17",
+      "name": "Youtube",
+      "url": "http://www.youtube.com",
+      "img": "http://www.youtube.com/favicon.ico"
+    },
+    {
+      "id": "18",
+      "name": "Discord",
+      "url": "http://www.discordapp.com",
+      "img": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "19",
+      "name": "Twitch",
+      "url": "http://www.twitch.tv",
+      "img": "http://www.twitch.tv/favicon.ico"
+    },
+    {
+      "id": "21",
+      "name": "Yahoo",
+      "url": "http://www.yahoo.com",
+      "img": "http://www.yahoo.com/favicon.ico"
+    },
+    {
+      "id": "22",
+      "name": "Yahoo Mail",
+      "url": "http://mail.yahoo.com",
+      "img": "http://mail.yahoo.com/favicon.ico"
+    },
+    {
+      "id": "24",
+      "name": "Bing",
+      "url": "http://www.bing.com",
+      "img": "http://www.bing.com/favicon.ico"
+    },
+    {
+      "id": "25",
+      "name": "Accuweather",
+      "url": "http://www.accuweather.com",
+      "img": "http://www.accuweather.com/favicon.ico"
+    },
+    {
+      "id": "26",
+      "name": "Amazon",
+      "url": "http://www.amazon.com",
+      "img": "http://www.amazon.com/favicon.ico"
+    },
+    {
+      "id": "27",
+      "name": "Amazon Music",
+      "url": "http://www.amazon.com/gp/redirect.html?ie=UTF8&location=music&token=0991&site-redirect=music&ref_=hm_mu_sm_1",
+      "img": "http://www.amazon.com/favicon.ico"
+    },
+    {
+      "id": "28",
+      "name": "Aliexpress",
+      "url": "http://www.aliexpress.com",
+      "img": "http://www.aliexpress.com/favicon.ico"
+    },
+    {
+      "id": "29",
+      "name": "Alibaba",
+      "url": "http://www.alibaba.com",
+      "img": "http://www.alibaba.com/favicon.ico"
+    },
+    {
+      "id": "30",
+      "name": "Virgin Media",
+      "url": "http://www.virginmedia.com",
+      "img": "http://www.virginmedia.com/favicon.ico"
+    }
+  ]
+}
